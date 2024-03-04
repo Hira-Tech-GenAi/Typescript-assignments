@@ -1,4 +1,4 @@
-const personName: string = "\n\tHira Shoaib\t\n";
+const personName: string = "\n\tHira Khalid\t\n";
 console.log(personName);
 
 const without_whitespace = personName.trim();
