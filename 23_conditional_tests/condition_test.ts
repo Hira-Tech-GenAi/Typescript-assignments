@@ -43,7 +43,7 @@ console.log("Is car  ==='Van'? I predict false.");
 console.log(car ==="Van");
 
 
-//Test#9
+//Test#10
 console.log("Is car  ==='Bike'? I predict false.");
 console.log(car ==="Bike");
 

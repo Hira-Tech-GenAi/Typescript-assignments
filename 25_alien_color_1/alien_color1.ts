@@ -17,6 +17,7 @@ if(alienColor === "green"){
 
 
  if(alienColor === "green"){
+    //This result will not be print as instructed.
     console.log("Plyer just earn 5 points !");
 }
 

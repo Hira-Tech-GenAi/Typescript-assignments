@@ -14,6 +14,7 @@ if(favoriteFruits.includes("Mango")){
 if(favoriteFruits.includes("Banana")){
     console.log("I love to eat Banana.");
 }
+//This will not be printed as you instructed in question.
 if(favoriteFruits.includes("Apple")){
     console.log("I love to eat Apple");
 }

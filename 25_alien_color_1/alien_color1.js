@@ -9,5 +9,6 @@ if (alienColor === "green") {
 // Write one version of this program that passes the if test and another that fails. (The version that fails will have no output).
 alienColor = "yellow ";
 if (alienColor === "green") {
+    //This result will not be print as instructed.
     console.log("Plyer just earn 5 points !");
 }

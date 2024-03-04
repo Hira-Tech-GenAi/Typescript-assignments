@@ -19,11 +19,13 @@ guest_list.unshift("Sir Daniyal Nagori");
 guest_list.splice(2, 0, "Sir Ameen");
 guest_list.push("Sir Hamza");
 //Print six guest array
-for (let i = 0; i < guest_list.length; i++) {
-    console.log("Dear Sir, " +
-        guest_list[i] +
-        ",\n\nIt is our pleasure to invite you in our party.\n\nThank you!\n\n");
-}
+// for (let i = 0; i < guest_list.length; i++) {
+//   console.log(
+//     "Dear Sir, " +
+//       guest_list[i] +
+//       ",\n\nIt is our pleasure to invite you in our party.\n\nThank you!\n\n"
+//   );
+// }
 //Sorry massage
 // console.log(
 //   "\nSorry we can't arrange Big Table, only two people will be invited."
@@ -43,7 +45,8 @@ while (guest_list.length > 2) {
 // }
 //Remove all guest
 guest_list.splice(0, 2);
-console.log(guest_list);
+// console.log(guest_list);
 //exercise 19
 //Print a massage to indicating the number of people you are inviting to the dinner.
-console.log(`Remaining guest are: ${guest_list.length}`);
+console.log(`I have Removed all invited guest from array`);
+console.log(`Number of people are invited to dinner: ${guest_list.length}`);

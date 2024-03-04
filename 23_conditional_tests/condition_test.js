@@ -26,3 +26,9 @@ console.log(car === "SUBARU");
 //Test#8
 console.log("Is car  ==='Plane'? I predict false.");
 console.log(car === "Plane");
+//Test#9
+console.log("Is car  ==='Van'? I predict false.");
+console.log(car === "Van");
+//Test#10
+console.log("Is car  ==='Bike'? I predict false.");
+console.log(car === "Bike");
