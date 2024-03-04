@@ -1,9 +1,8 @@
 "use strict";
-let personName = "";
-personName = prompt("What is your name?") || "";
+let personName = "Hira Khalid";
 if (personName !== null && personName !== "") {
-    alert(`Hello ${personName}, Would you like to learn some Typescript today.`);
+    console.log(`Hello ${personName}, Would you like to learn some Typescript today.`);
 }
 else {
-    alert("You have to fill your name! ");
+    console.log("You have to fill your name!");
 }
