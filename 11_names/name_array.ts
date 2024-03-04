@@ -1,5 +1,5 @@
-let firstName :string[] = ["Hira", "Shoaib", "Insharah", "M.Shees", "M.Shafayi"]
+let firstName :string[] = ["Hira", "Khalid", "Insharah", "M.Shees", "M.Shafayi"]
 
-for(let i=0; i<firstName.length; ++i){
+for(let i=0; i<firstName.length; i++){
     console.log(firstName[i]);
 }
